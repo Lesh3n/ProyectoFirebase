@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470015266477",
+    "project_id": "proyectodispensador-166c9",
+    "storage_bucket": "proyectodispensador-166c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470015266477:android:fd0d51ed43367c02250024",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470015266477-dvot52c8q7fr44g8sim7vhfad5mqn9kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqRQT-x9kgChmT0z1cXeljhiYKAVkTHig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470015266477-dvot52c8q7fr44g8sim7vhfad5mqn9kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
